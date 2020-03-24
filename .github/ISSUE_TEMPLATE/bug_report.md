@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **Steps to Reproduce**
-Steps to reproduce the behavior:
+Steps to reproduce the behaviour:
 
 **Expected Behaviour**
 A clear and concise description of what you expected to happen.
