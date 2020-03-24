@@ -6,8 +6,8 @@ issueConfigs:
 # Example 1: bug report
   - "Describing Bug"
   - "Steps to Reproduce"
-  - "Expected Behavior"
-  - "Current Behavior"
+  - "Expected Behaviour"
+  - "Current Behaviour"
 - content:
 # Example 2: feature request
   - "Use Case"
